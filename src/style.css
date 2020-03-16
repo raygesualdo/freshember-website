@@ -1,0 +1,8 @@
+body {
+  background: #000;
+}
+.ember {
+  display: block;
+  margin: 10% auto 5%;
+  max-width: 100%;
+}
